@@ -5,3 +5,6 @@
 
 ### Con este video agregue lo que son los Enums y Objetos
 - Video HolaMundo: https://www.youtube.com/watch?v=-xDZwb-PY0M
+
+### Assertion Types - Fetching
+- Video Midudev: https://www.youtube.com/watch?v=L1ZSk-vPVKI
